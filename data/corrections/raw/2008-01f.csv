@@ -1,0 +1,33 @@
+Bureau of Justice Statistics,,,,,,,
+Filename:  cjee08fn01.csv,,,,,,,
+"Table 1.   Percent distribution of expenditure for the justice system by type of government, fiscal year 2008",,,,,,,
+"Series title:  Justice Expenditure and Employment Extracts 2008 - Final, NCJ 237912",,,,,,,
+Data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE),,,,,,,
+Author: Tracey Kyckelhahn,,,,,,,
+Refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765,,,,,,,
+Date of version:  5/30/2012,,,,,,,
+,,,,,,,
+"Table 1.   Percent distribution of expenditure for the justice system by type of government, fiscal year 2008",,,,,,,
+,,,,,,,
+,Amount (thousands of dollars),,,,Percent distribution,,
+Activity,All governments/a,Federal government,State governments,Local governments,Federal government,State governments,Local governments
+,,,,,,,
+Total justice system,246650117,47137999,84938439,123825544,-,-,-
+Direct expenditure,246650117,43284000,79715490,123650627,17.5,32.3,50.1
+Intergovernmental expenditure,-,3853999,5222949,174917,-,-,-
+,,,,,,,
+Police protection,113834787,26806715,13594279,77194788,-,-,-
+Direct expenditure,113834787,24615000,12034322,77185465,21.6,10.6,67.8
+Intergovernmental expenditure,-,2191715,1559957,9323,-,-,-
+,,,,,,,
+Judicial and legal,53213570,12829978,21446629,21035726,-,-,-
+Direct expenditure,53213570,11781000,20442128,20990442,22.1,38.4,39.4
+Intergovernmental expenditure,-,1048978,1004501,45284,-,-,-
+,,,,,,,
+Corrections,79601760,7501306,49897531,25595030,-,-,-
+Direct expenditure,79601760,6888000,47239040,25474720,8.7,59.3,32
+Intergovernmental expenditure,-,613306,2658491,120310,-,-,-
+,,,,,,,
+Notes:  Local government data are estimates subject to sampling variability.,,,,,,,
+"Federal Government data are for the fiscal period beginning October 1, 2007 and ending September 30, 2008.",,,,,,,
+"a/ The total lines for each criminal justice activity, and for the total justice system, exclude duplicative intergovernmental amounts.  This was done to avoid the artificial inflation that would result if an intergovernmental expenditure of a government were tabulated and then counted again when the recipient government(s) expended the amount.  The intergovernmental expenditure lines are not totaled for the same reason. ",,,,,,,

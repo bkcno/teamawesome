@@ -1,0 +1,35 @@
+Bureau of Justice Statistics,,,,,,,
+Filename:  jeeus1001.csv,,,,,,,
+"Table 1.   Percent distribution of expenditure for the justice system by type of government, fiscal 2010 (final)",,,,,,,
+"Series title:  Justice Expenditure and Employment Extracts 2010, NCJ 247019",,,,,,,
+Data source:  Justice Expenditure and Employment Extracts Program (JEE),,,,,,,
+Author: Tracey Kyckelhahn,,,,,,,
+Refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765,,,,,,,
+Date of version:  ,,,,,,,
+,,,,,,,
+"Table 1.   Percent distribution of expenditure for the justice system by type of government, fiscal 2010 (final)",,,,,,,
+,,,,,,,
+,Amount (thousands of dollars),,,,Percent distribution,,
+,,,,,,,
+Activity,,Federal,State,Local,Federal,State,Local
+,All governments/a,government,governments,governments,government,governments,governments
+,,,,,,,
+Total justice system,260100636,54384819,84872909,131270004,-,-,-
+Direct expenditure,260100636,49536000,79467047,131097589,19,30.6,50.4
+Intergovernmental expenditure,-,4848819,5405862,172415,-,-,-
+,,,,,,,
+Police protection,123678671,31525685,13828055,82593829,-,-,-
+Direct expenditure,123678671,28715000,12376317,82587354,23.2,10,66.8
+Intergovernmental expenditure,-,2810685,1451738,6475,-,-,-
+,,,,,,,
+Judicial and legal,56118538,14352695,22495303,22090561,-,-,-
+Direct expenditure,56118538,13073000,20995541,22049997,23.3,37.4,39.3
+Intergovernmental expenditure,-,1279695,1499762,40564,-,-,-
+,,,,,,,
+Corrections,80303427,8506439,48549551,26585614,-,-,-
+Direct expenditure,80303427,7748000,46095189,26460238,9.6,57.4,33
+Intergovernmental expenditure,-,758439,2454362,125376,-,-,-
+,,,,,,,
+Notes:  Local government data are estimates subject to sampling variability.,,,,,,,
+"Federal Government data are for the fiscal period beginning October 1, 2009 and ending September 30, 2010.",,,,,,,
+"a/ The total lines for each criminal justice activity, and for the total justice system, exclude duplicative intergovernmental amounts.  This was done to avoid the artificial inflation that would result if an intergovernmental expenditure of a government were tabulated and then counted again when the recipient government(s) expended the amount.  The intergovernmental expenditure lines are not totaled for the same reason. ",,,,,,,

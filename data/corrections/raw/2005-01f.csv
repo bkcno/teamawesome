@@ -1,0 +1,36 @@
+Bureau of Justice Statistics,,,,,,,,,,
+filename:  cjee0501.csv,,,,,,,,,,
+"table #.  1 Percent distribution of expenditure for the justice system, by type of government, fiscal year 2005",,,,,,,,,,
+"series title:  Justice Expenditure and Employment Extracts 2005, NCJ 219370",,,,,,,,,,
+data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE),,,,,,,,,,
+author:  Kristen Hughes,,,,,,,,,,
+refer questions to:  askbjs@usdoj.gov (202) 307-0765,,,,,,,,,,
+date of version:  8/10/2007,,,,,,,,,,
+
+"Table 1.   Percent distribution of expenditure for the justice system, by type of government, fiscal year 2005",,,,,,,,,,
+
+,Amount (thousands of dollars),,,,Percent distribution,,,,,
+Activity,All governments/a,Federal governments,State governments,Local governments,Federal governments,,State governments,,Local governments,
+
+Total justice system,"$204,136,015 ","$40,019,000 ","$69,747,699 ","$103,906,121 ",--,,--,,--,
+Direct expenditure,"$204,136,015 ","$35,415,000 ","$64,947,744 ","$103,773,271 ",17.3,%,31.8,%,50.8,%
+Intergovernmental expenditure,--,"$4,604,000 ","$4,799,955 ","$132,850 ",--,,--,,--,
+
+Police protection,"$94,437,440 ","$22,500,588 ","$11,362,668 ","$64,532,177 ",--,,--,,--,
+Direct expenditure,"$94,437,440 ","$19,912,000 ","$9,996,942 ","$64,528,498 ",21.1,%,10.6,%,68.3,%
+Intergovernmental expenditure,--,"$2,588,588 ","$1,365,726 ","$3,679 ",--,,--,,--,
+
+Judicial and legal,"$44,607,363 ","$10,894,344 ","$17,695,665 ","$18,419,440 ",--,,--,,--,
+Direct expenditure,"$44,607,363 ","$9,641,000 ","$16,583,096 ","$18,383,267 ",21.6,%,37.2,%,41.2,%
+Intergovernmental expenditure,--,"$1,253,344 ","$1,112,569 ","$36,173 ",--,,--,,--,
+
+Corrections,"$65,091,212 ","$6,624,068 ","$40,689,366 ","$20,954,504 ",--,,--,,--,
+Direct expenditure,"$65,091,212 ","$5,862,000 ","$38,367,706 ","$20,861,506 ",9,%,58.9,%,32,%
+Intergovernmental expenditure,--,"$762,068 ","$2,321,660 ","$92,998 ",--,,--,,--,
+
+
+Notes:  Local government data are estimates subject to sampling variability.,,,,,,,,,,
+"Federal Government data are for the fiscal period beginning October 1, 2004 and ending September 30, 2005."
+"a/ The total lines for each criminal justice activity, and for the total justice system, exclude duplicative intergovernmental amounts.  "
+This was done to avoid the artificial inflation that would result if an intergovernmental expenditure of a government were tabulated and then counted again when the recipient government(s) expended the amount. 
+The intergovernmental expenditure lines are not totaled for the same reason. 

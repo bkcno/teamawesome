@@ -1,0 +1,35 @@
+Bureau of Justice Statistics,,,,,,,,,
+filename:  cjee0301.csv,,,,,,,,,
+"table #:  1 Percent distribution of expenditure for the justice system by type of government, fiscal 2003",,,,,,,,,
+"series title:  Justice Expenditure and Employment Extracts 2003, NCJ 212350",,,,,,,,,
+data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE),,,,,,,,,
+authors:  Kristen A. Hughes and Steven W. Perry,,,,,,,,,
+refer questions to:  askbjs@usdoj.gov (202) 307-0765,,,,,,,,,
+date of version:  1/12/2005,,,,,,,,,
+
+"Table 1.   Percent distribution of expenditure for the justice system by type of government, fiscal 2003",,,,,,,,,
+
+
+,Amount (thousands of dollars),,,,Percent distribution,,,,
+Activity,All governments/a,Federal government,State governments,Local governments,Federal government,,State governments,,Local governments
+
+
+Total justice system,"$185,489,968 ","$35,323,000 ","$66,114,297 ","$93,877,225 ",-,%,-,%,-,%
+Direct expenditure,"$185,489,968 ","$30,197,000 ","$61,743,018 ","$93,549,950 ",16.3,,33.3,,50.4,
+Intergovernmental expenditure, - ,"$5,126,000 ","$4,371,279 ","$327,275 ",-,,-,,-,
+
+Police protection,"$83,089,388 ","$20,422,155 ","$11,144,395 ","$57,503,192 ",-,,-,,-,
+Direct expenditure,"$83,089,388 ","$15,728,000 ","$9,860,380 ","$57,501,008 ",18.9,,11.9,,69.2,
+Intergovernmental expenditure, - ,"$4,694,155 ","$1,284,015 ","$2,184 ",-,,-,,-,
+
+Judicial and legal,"$41,545,282 ","$9,356,153 ","$15,782,063 ","$17,718,105 ",-,,-,,-,
+Direct expenditure,"$41,545,282 ","$9,085,000 ","$14,944,737 ","$17,515,545 ",21.9,,36,,42.2,
+Intergovernmental expenditure, - ,"$271,153 ","$837,326 ","$202,560 ",-,,-,,-,
+
+Corrections,"$60,855,298 ","$5,544,692 ","$39,187,839 ","$18,655,928 ",-,,-,,-,
+Direct expenditure,"$60,855,298 ","$5,384,000 ","$36,937,901 ","$18,533,397 ",8.8,,60.7,,30.5,
+Intergovernmental expenditure, - ,"$160,692 ","$2,249,938 ","$122,531 ",-,,-,,-,
+
+
+"Notes:  Local government data are estimates subject to sampling variability.  Federal Government data are for the fiscal period beginning October 1, 2002 and ending September 30, 2003."
+"a/ The total lines for each criminal justice activity, and for the total justice system, exclude duplicative intergovernmental amounts.  This was done to avoid the artificial inflation that would result if an intergovernmental expenditure of a government were tabulated and then counted again when the recipient government(s) expended the amount.  The intergovernmental expenditure lines are not totaled for the same reason. "

@@ -1,0 +1,36 @@
+Bureau of Justice Statistics,,,,,,,
+Filename:  jeeus1101.csv,,,,,,,
+"Table 1:  Percent distribution of expenditure for the justice system by type of government, fiscal 2011 (preliminary)",,,,,,,
+"Series title:  Justice Expenditure and Employment Extracts 2010, NCJ 247020",,,,,,,
+Data source:  Justice Expenditure and Employment Extracts Program (JEE),,,,,,,
+Author: Tracey Kyckelhahn,,,,,,,
+Refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765,,,,,,,
+Date of version:  ,,,,,,,
+,,,,,,,
+"Table 1.   Percent distribution of expenditure for the justice system by type of government, fiscal 2011 (preliminary)",,,,,,,
+,,,,,,,
+,Amount (thousands of dollars),,,,Percent distribution,,
+,,,,,,,
+Activity,,Federal,State,Local,Federal,State,Local
+,All governments/a,government,governments,governments,government,governments,governments
+,,,,,,,
+,,,,,,,
+Total justice system,261838327,53579000,86017873,131629692,-,-,-
+Direct expenditure,261838327,49826000,80613651,131398676,19,30.8,50.2
+Intergovernmental expenditure,-,3753000,5404222,231016,-,-,-
+,,,,,,,
+Police protection,124689979,30517642,14248537,83458015,-,-,-
+Direct expenditure,124689979,28380000,12857062,83452917,22.8,10.3,66.9
+Intergovernmental expenditure,-,2137642,1391475,5098,-,-,-
+,,,,,,,
+Judicial and legal,56470162,14569539,22602337,21904581,-,-,-
+Direct expenditure,56470162,13549000,21045486,21875676,24,37.3,38.7
+Intergovernmental expenditure,-,1020539,1556851,28905,-,-,-
+,,,,,,,
+Corrections,80678186,8491819,49166999,26267096,-,-,-
+Direct expenditure,80678186,7897000,46711103,26070083,9.8,57.9,32.3
+Intergovernmental expenditure,-,594819,2455896,197013,-,-,-
+,,,,,,,
+Notes:  Local government data are estimates subject to sampling variability.,,,,,,,
+"Federal Government data are for the fiscal period beginning October 1, 2010 and ending September 30, 2011.",,,,,,,
+"a/ The total lines for each criminal justice activity, and for the total justice system, exclude duplicative intergovernmental amounts.  This was done to avoid the artificial inflation that would result if an intergovernmental the amount.  The intergovernmental expenditure lines are not totaled for the same reason. ",,,,,,,
