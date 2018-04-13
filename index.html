@@ -4,14 +4,34 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>
+  <!--title>
     <strong> Spending On Education & Corrections</strong>
     
-  </title>
+  </title-->
   <!--img src="map_growth_rate.jpg" alt="" style="width:1500px;height:600px;"--> 
   <html lang="en">
+      <link href="style.css" rel="stylesheet">
+      <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+      <style>
+          .navigation{background-color: grey ; color:white; padding: 10px}
+      </style>
+      <style>
+              .heading{ color:black; }
+              .footer{padding: 20px;
+      color: white;
+      background-color: black;
+      clear: left;
+      text-align: center;
+    }
+    .imagesize {min-height : 100%;
+  min-width : 100%;
+  background-size:100% 100%;
+  background-repeat:no-repeat;
+  overflow-y: hidden;
+  overflow-x: hidden;}
+          </style>
     <head>
-      <title><strong> Spending On Education & Corrections</strong></title>
+      <!--title><strong> Spending On Education & Corrections</strong></title-->
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -31,26 +51,43 @@
         </ol>
     
         <!-- Wrapper for slides -->
-        <div class="carousel-inner">
+        <div class="carousel-inner" >
     
           <div class="item active">
-            <img src="crime_1.jpg" alt="capitol-complex.jpg" style="width:100%;">
+            <img src="images/crime_1.jpg" alt="capitol-complex.jpg" style= min-height : 200%;
+            min-width : 100%;
+            background-size:100% 100%;
+            background-repeat:no-repeat;
+            overflow-y: hidden;
+            overflow-x: hidden;>
             <div class="carousel-caption">
               <h3>Crime</h3>
               <p>Crime</p>
             </div>
           </div>
     
-          <div class="item">
-            <img src="lastdayofschool.jpg" alt="Chicago" style="width:100%;">
+          <div class="item"> 
+            <div class="row">
+            <img src="images/lastdayofschool.jpg" alt="Chicago" style= min-height : 200%;
+            min-width : 100%;
+            background-size:100% 100%;
+            background-repeat:no-repeat;
+            overflow-y: hidden;
+            overflow-x: hidden;>>
             <div class="carousel-caption">
               <h3>Yayyy</h3>
               <p>Last Day of School</p>
             </div>
+            </div>
           </div>
         
           <div class="item">
-            <img src="prison_image.jpg" alt="New York" style="width:100%;">
+            <img src="images/prison_image.jpg" alt="New York" style= min-height : 200%;
+            min-width : 100%;
+            background-size:100% 100%;
+            background-repeat:no-repeat;
+            overflow-y: hidden;
+            overflow-x: hidden;>>
             <div class="carousel-caption">
               <h3>Prison</h3>
               <p>Prison</p>
@@ -79,7 +116,9 @@
 
   <!--<link href="bootstrapmin.css" rel="stylesheet">  
     <link href="bootstrap-grid.css" rel="stylesheet">-->
-  <link href="style.css" rel="stylesheet">
+  
+</head>
+<link href="style.css" rel="stylesheet">
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
   <style>
       .navigation{background-color: grey ; color:white; padding: 10px}
@@ -93,14 +132,15 @@
   text-align: center;
 }
       </style>
-</head>
 
 <body>
 
-  <nav class="navbar navbar-expand-lg navbar-dark bg-head-foot fixed-top">
+  <!--Defining Nav Bars-->
+
+  <nav class="navbar navbar-dark bg-dark fixed-top navbar-expand-lg">
     <div class="container">
       <a class="navbar-brand" href="index.html">
-        <strong> Public Spending On Education & Corrections</strong>
+        <strong> Public Spending On Education and Corrections</strong>
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive"
         aria-expanded="false" aria-label="Toggle navigation">
@@ -110,36 +150,51 @@
         <ul class="navbar-nav ml-auto">
 
           <li class="nav-item active navbar-right dropdown">
-            <a class="nav-link dropdown-toggle " style="color:black"="dropdown03" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Plots</a>
+            <a class="nav-link dropdown-toggle " data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Plots</a>
             <div class="dropdown-menu" aria-labelledby="dropdown03">
-              <a class="dropdown-item" href="EduFunding_vs_CrimeRate.html">Education Funding vs CrimeRate per state</a>
-              <a class="dropdown-item" href="crime_vs_edufunding.html">crime rate_vs_edufunding</a>
-              <a class="dropdown-item" href="lattitude_vs_cloud.html">chart 3</a>
-              <a class="dropdown-item" href="lattitude_vs_wind_speed.html">chart 4</a>
+            <a class="dropdown-item" href="crime_vs_edufunding.html">Crime Rate vs Edufunding</a>
+              
             </div>
           </li>
 
-          <li class="nav-item active">
-            <a class="nav-link" style="color:black" href="predictive_analysis.html">Predictive Analysis</a>
-          </li>
+        
+
+          <li class="nav-item active navbar-right dropdown">
+              <a class="nav-link dropdown-toggle "data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Predictive Analysis</a>
+              <div class="dropdown-menu" aria-labelledby="dropdown03">
+                <a class="dropdown-item" href="predictive_analysis.html">Rebecca Charts</a>
+                <a class="dropdown-item" href="regression_analysis.html">Aiezza charts</a>
+                
+              </div>
+            </li>
 
           <li class="nav-item active">
-            <a class="nav-link" style="color:black" href="data.html">Data</a>
+            <a class="nav-link" href="data.html">Data</a>
           </li>
 
         </ul>
       </div>
     </div>
   </nav>
-  <div class="col-md-9">
-      <iframe width="150%" height="600" frameborder="0" src="https://apoorvaanwekar.carto.com/builder/e411f72d-c551-4e1e-b053-3483e2abcca8/embed">
-      </iframe>
 
-  </div>
   <div class="container">
     
 
     <!-- Index page heading -->
+    <link href="style.css" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+      .navigation{background-color: grey ; color:white; padding: 10px}
+  </style>
+  <style>
+          .heading{ color:black; }
+          .footer{padding: 20px;
+  color: white;
+  background-color: black;
+  clear: left;
+  text-align: center;
+}
+      </style>
     <h1 class="my-4">
       Public Spending On Education & Corrections
     </h1>
@@ -182,45 +237,45 @@
     <div class="row">
 
       <div class="col-md-3 col-sm-6 mb-4">
-        <a href="EduFunding_vs_CrimeRate.html">
-          <img class="img-fluid" src="download.png" alt="">
+        <a href="crime_vs_edufunding.html">
+          <img class="img-fluid" src="images/download.png" alt="">
+        </a>
+      </div>
+
+      <div class="col-md-3 col-sm-6 mb-4">
+        <a href="carto.html">
+          <img class="img-fluid" src="images/carto_image.png" alt="">
         </a>
       </div>
 
       <div class="col-md-3 col-sm-6 mb-4">
         <a href="predictive_analysis.html">
-          <img class="img-fluid" src="cost_function_math_formula.png" alt="">
+          <img class="img-fluid" src="images/cost_function_math_formula.png" alt="">
         </a>
       </div>
 
       <div class="col-md-3 col-sm-6 mb-4">
-        <a href="predictive_analysis.html">
-          <img class="img-fluid" src="main-qimg-34426a9ba517ebd7710650622a04fd7a-c.jpeg" alt="">
+        <a href="regression_analysis.html">
+          <img class="img-fluid" src="images/main-qimg-34426a9ba517ebd7710650622a04fd7a-c.jpeg" alt="">
         </a>
       </div>
 
-      <div class="col-md-3 col-sm-6 mb-4">
-        <a href="lattitude_vs_cloud.html">
-          <img class="img-fluid" src="crimefig4.png" alt="">
-        </a>
-      </div>
+  
 
     </div>
     <!-- /.row -->
 
   </div>
-  <!-- <footer class="py-4 bg-head-foot">
+  <footer class="py-4 bg-head-foot">
         <div class="container">
-          <p class="m-0 text-center text-white">By Sharath Ram Srinivasan</p>
+          <p class="m-0 text-center text-black">By Team Awesome(Aizza,Apoorva,Imara,Marc,Rebecca)</p>
         </div>
-        <!-- /.container -->
-  <!-- </footer> -->
+  </footer>
 
   <!-- Bootstrap core JavaScript -->
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
     crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-
 </body>
 
 
