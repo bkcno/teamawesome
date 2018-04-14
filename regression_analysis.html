@@ -1,39 +1,108 @@
 <html lang="en">
 
-  <head>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>
+    Spending on corrections & educations vs crime level
 
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-waidth, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+  </title>
+  <link href="style.css" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    .navigation {
+      background-color: grey;
+      color: white;
+      padding: 10px
+    }
 
-    <title>Regression Analysis</title>
+    .heading {
+      color: black;
+    }
 
-    <!-- css references -->
-    <link href="style.css" rel="stylesheet">
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        .navigation{background-color: grey ; color:white; padding: 10px}
-    </style>
-    <style>
-            .heading{ color:black; }
-            .footer{padding: 20px;
-    color: white;
-    background-color: black;
-    clear: left;
-    text-align: center;
-}
-        </style>
+    .footer {
+      padding: 20px;
+      color: white;
+      background-color: black;
+      clear: left;
+      text-align: center;
+    }
 
-        <h1>Spending on corrections & educations vs crime level</h1>
-        <img src="regression_results/actual_corrections_vs_crime.png" alt="" >
-        <img src="regression_results/actual_edu_correct_vs_crime.png" alt="" >
-       <img src="regression_results/actual_education_vs_crime.png" alt="" >
-       <img src="regression_results/predicted_correction_vs_crime.png" alt="" >
-        <img src="regression_results/predicted_education_vs_crime.png" alt="" >
-    <img src="regression_results/residuals_education_vs_crime.png" alt="" >
+    .imagesize {
+      min-height: 100%;
+      min-width: 100%;
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      overflow-y: hidden;
+      overflow-x: hidden;
+    }
+  </style>
 
 
-       
-        
-  </head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+  <!--Defining Nav Bars-->
+
+  <nav class="navbar navbar-dark bg-dark fixed-top navbar-expand-lg">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="index.html">
+        <strong> Public Spending On Education and Corrections</strong>
+      </a>
+      <button class="navbar-toggler btn-lg" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+
+          <li class="nav-item active dropdown btn-lg">
+            <a class="nav-link dropdown-toggle " data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Plots</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown03">
+              <a class="dropdown-item" href="crime_vs_edufunding.html">Crime Rate vs Edufunding</a>
+
+            </div>
+          </li>
+
+
+
+          <li class="nav-item active dropdown btn-lg">
+            <a class="nav-link dropdown-toggle " data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Predictive Analysis</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown03">
+              <a class="dropdown-item" href="predictive_analysis.html">Education Funding vs. Crime Rate</a>
+              <a class="dropdown-item" href="regression_analysis.html">Spending vs. crime level</a>
+
+            </div>
+          </li>
+
+          <li class="nav-item active dropdown btn-lg">
+            <a class="nav-link dropdown-toggle " data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Data</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown03">
+              <a class="dropdown-item" href="crime_data.html">Crime Data</a>
+              <a class="dropdown-item" href="population_data.html">Population Data</a>
+              <a class="dropdown-item" href="spending_data.html">Spending Data</a>
+
+          </li>
+        </ul>
+        </div>
+      </div>
+  </nav>
+
+  <h1>Spending on corrections & educations vs crime level</h1>
+  <img src="regression_results/actual_corrections_vs_crime.png" alt="">
+  <img src="regression_results/actual_edu_correct_vs_crime.png" alt="">
+  <img src="regression_results/actual_education_vs_crime.png" alt="">
+  <img src="regression_results/predicted_correction_vs_crime.png" alt="">
+  <img src="regression_results/predicted_education_vs_crime.png" alt="">
+  <img src="regression_results/residuals_education_vs_crime.png" alt="">
+
+
+
+
+</body>
+
+</html>
