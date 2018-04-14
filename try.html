@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <style>
+         blink, .blink {
+           color:red;
+           -webkit-animation: blink 1s step-end infinite;
+           animation: blink 1s step-end infinite
+         }
+ 
+          @-webkit-keyframes blink,  .blink  {
+          67% { opacity: 0 }
+         }
+ 
+         @keyframes blink, .blink {
+         67% { opacity: 0 }
+        }
+      </style>
+   </head>
+
+   <body>
+       <blink>Blinking Text!!!</blink>
+      <br />
+      <span class="blink">Blink with css class</span>
+   </body>
+</html>
